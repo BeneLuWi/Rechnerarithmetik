@@ -1,0 +1,4 @@
+C:\Users\bluek\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/MinGW/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/MinGW/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" C:\Users\bluek\CLionProjects\Rechnerarithmetik
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/bluek/CLionProjects/Rechnerarithmetik/cmake-build-debug

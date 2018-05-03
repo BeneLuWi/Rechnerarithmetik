@@ -1,0 +1,3 @@
+C:\Users\bluek\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4668.70\bin\cmake\bin\cmake.exe -E remove -f CMakeFiles\Rechnerarithmetik.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Rechnerarithmetik.dir/objects.a @CMakeFiles\Rechnerarithmetik.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Rechnerarithmetik.dir/objects.a -Wl,--no-whole-archive  -o Rechnerarithmetik.exe -Wl,--out-implib,libRechnerarithmetik.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Rechnerarithmetik.dir\linklibs.rsp
